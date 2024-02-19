@@ -14,9 +14,7 @@ public class calculate1 {
     public int div(int a, int b) {
         return a / b;
     }
-}
 
-class result {
     public static void main(String args[]) {
         calculate1 c = new calculate1();
         System.out.println("Addition=" + c.add(5, 3));
